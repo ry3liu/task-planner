@@ -1,0 +1,21 @@
+body{
+	background:url("greyBackground.jpg");
+	background-attachment:fixed;
+	
+	
+	
+}
+.jumbotron{
+	background-color:lightGrey;
+}
+
+#taskList{
+	width:600px;
+	font-family: serif;
+	
+}
+
+body h2{
+	color:white;
+}
+
